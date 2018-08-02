@@ -1,8 +1,6 @@
 "scripts": {
-  "start": "node index.js"
-}
-{
-    "title": "Stylish Portfolio",
+  "start": "node index.js",
+    "title": "BrandinoTats",
     "name": "startbootstrap-stylish-portfolio",
     "version": "5.0.0",
     "description": "A stylish portfolio HTML template built with Bootstrap",
