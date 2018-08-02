@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "node index.js"
+}
 {
     "title": "Stylish Portfolio",
     "name": "startbootstrap-stylish-portfolio",
