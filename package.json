@@ -1,6 +1,5 @@
-"scripts": {
-  "start": "node index.js",
-    "title": "BrandinoTats",
+{
+    "title": "Stylish Portfolio",
     "name": "startbootstrap-stylish-portfolio",
     "version": "5.0.0",
     "description": "A stylish portfolio HTML template built with Bootstrap",
@@ -12,6 +11,12 @@
         "theme",
         "template"
     ],
+    "scripts": {
+      "start": "node server.js",
+      "test": "mocha",
+      "postinstall": "bower install && grunt build"
+    }
+
     "homepage": "https://startbootstrap.com/template-overviews/stylish-portfolio",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues",
